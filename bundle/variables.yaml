@@ -1,0 +1,4 @@
+variables:
+- team: johnr2lee-org
+- admin-user: johnr2lee-admin
+- manager-user: johnr2lee
